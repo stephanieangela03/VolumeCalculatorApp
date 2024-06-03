@@ -24,27 +24,8 @@ Using the VolumeCalculatorApp is straightforward:
 * The app will display the calculated volume.
 
 ## Screenshots
-<p align="center">
-    <img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/d8a18630-943d-42d7-b1ac-05880bb11a84" width="100" alt="Home Screen">
-    <em>The home screen of the VolumeCalculatorApp.</em>
-</p>
-
-<p align="center">
-    <img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/4f8b4b41-c9d5-4e73-ab6b-7d8252f2163b" width="100" alt="Shape Selection">
-    <em>Shape selection screen.</em>
-</p>
-
-<p align="center">
-    <img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/e6ee07ae-d5b1-4772-b9bd-5c2b63527613" width="100" alt="Dimension Input">
-    <em>Entering dimensions for volume calculation.</em>
-</p>
-
-<p align="center">
-    <img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/c466a236-c6e3-4714-ab44-451f4e14f9ba" width="100" alt="Volume Calculation">
-    <em>Calculated volume displayed.</em>
-</p>
-
-<p align="center">
-    <img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/5d1155d2-76c3-4199-b4ad-59f2358b19c2" width="100" alt="Responsive Design">
-    <em>The app's responsive design on different devices.</em>
-</p>
+<img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/d8a18630-943d-42d7-b1ac-05880bb11a84" width="100" alt="Home Screen">
+<img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/4f8b4b41-c9d5-4e73-ab6b-7d8252f2163b" width="100" alt="Shape Selection">
+<img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/e6ee07ae-d5b1-4772-b9bd-5c2b63527613" width="100" alt="Dimension Input">
+<img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/c466a236-c6e3-4714-ab44-451f4e14f9ba" width="100" alt="Volume Calculation">
+<img src="https://github.com/stephanieangela03/VolumeCalculatorApp/assets/115938834/5d1155d2-76c3-4199-b4ad-59f2358b19c2" width="100" alt="Responsive Design">
